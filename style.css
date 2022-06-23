@@ -1,0 +1,16 @@
+.section-1{ 
+    text-align: center;
+    justify-content:center;
+    
+}
+.section-2{
+    float: right;
+    text-transform: uppercase;
+}
+.section-2-button{
+
+}
+
+.test {
+    display: none;
+}
